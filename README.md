@@ -5,8 +5,8 @@ Initiator of MaTeXe mathematics library
 East China Normal University
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://files.mdnice.com/user/34227/fa2e23c9-5a5f-4de4-aedf-7a49a2c5e2aa.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://files.mdnice.com/user/34227/fa2e23c9-5a5f-4de4-aedf-7a49a2c5e2aa.svg">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://files.mdnice.com/user/34227/fa2e23c9-5a5f-4de4-aedf-7a49a2c5e2aa.svg">
 </picture>
 
