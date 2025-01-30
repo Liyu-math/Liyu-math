@@ -1,19 +1,23 @@
-# Zhao Liyu
+# MaTeXist
 <!-- Remember to add an image-->
 ## About me
 
-East China Normal University
+East China Normal University.
 
-Initiator of MaTeXe mathematics library
+Majoring in Mathematics and Applied Mathematics (Normal)
+
+Math Teacher secondary school
+
+Initiator of MaTeXe Mathematics Library.
 
 <details open>
 <summary>My top languages</summary>
 
 | Rank | Languages |
 |:-:|:-:|
-|     1| LaTeX|
-|     2| JavaScript    |
-|     3| Markdown       |
+|     1| Markdown|
+|     2|LaTeX|
+|     3|Typst|
 
 </details>
 
