@@ -18,11 +18,12 @@ Initiator of MaTeXe Mathematics Library.
 |3|Typst|
 |4|HTML|
 |5|TypeScript|
-|6|CSS|
-|7|Python|
-|8|R|
-|9|MATLAB|
-|10|batch|
+|6|Vue.js|
+|7|CSS|
+|8|Python|
+|9|R|
+|10|MATLAB|
+|11|batch|
 
 </details>
 
