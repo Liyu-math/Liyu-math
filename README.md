@@ -13,12 +13,16 @@ Initiator of MaTeXe Mathematics Library.
 
 | Rank | Languages |
 |:-:|:-:|
-|     1| Markdown|
-|     2|LaTeX|
-|     3|Typst|
-|4|Python|
-|5|R|
-|6|MATLAB|
+|1| Markdown|
+|2|LaTeX|
+|3|Typst|
+|4|HTML|
+|5|TypeScript|
+|6|CSS|
+|7|Python|
+|8|R|
+|9|MATLAB|
+|10|batch|
 
 </details>
 
